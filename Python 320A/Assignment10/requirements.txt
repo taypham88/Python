@@ -1,0 +1,5 @@
+loguru
+peewee
+flask
+cerberus
+flask_restful

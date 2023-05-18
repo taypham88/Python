@@ -1,0 +1,470 @@
+2022-03-22 17:55:16,950 users.py:92  INFO search_user DoesNotExist, User notthere not found
+2022-03-22 17:55:16,950 users.py:92  INFO search_user DoesNotExist, User notthere not found
+2022-03-22 17:55:16,951 main.py:221 INFO add picture failed, notthere user not found.
+2022-03-22 17:55:16,951 main.py:221 INFO add picture failed, notthere user not found.
+2022-03-22 17:55:17,152 user_picture.py:47  INFO search_user_picture DoesNotExist, User notthere not found
+2022-03-22 17:55:17,152 user_picture.py:47  INFO search_user_picture DoesNotExist, User notthere not found
+2022-03-22 17:55:17,190 users.py:45  INFO User cbarker12 not added, duplicate user found
+2022-03-22 17:55:17,190 users.py:45  INFO User cbarker12 not added, duplicate user found
+2022-03-22 17:55:17,208 users.py:29  INFO User id AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:55:17,208 users.py:29  INFO User id AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:55:17,224 users.py:37  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:55:17,224 users.py:37  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:55:17,241 users.py:33  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:55:17,241 users.py:33  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:55:17,255 main.py:137 INFO No statues deleted for bwinkle678.
+2022-03-22 17:55:17,255 main.py:137 INFO No statues deleted for bwinkle678.
+2022-03-22 17:55:17,256 users.py:92  INFO search_user DoesNotExist, User bwinkle678 not found
+2022-03-22 17:55:17,256 users.py:92  INFO search_user DoesNotExist, User bwinkle678 not found
+2022-03-22 17:55:17,271 main.py:137 INFO No statues deleted for Tay.
+2022-03-22 17:55:17,271 main.py:137 INFO No statues deleted for Tay.
+2022-03-22 17:55:17,273 users.py:92  INFO search_user DoesNotExist, User Tay not found
+2022-03-22 17:55:17,273 users.py:92  INFO search_user DoesNotExist, User Tay not found
+2022-03-22 17:55:17,306 main.py:61  INFO Users csv file has blank data
+2022-03-22 17:55:17,306 main.py:61  INFO Users csv file has blank data
+2022-03-22 17:55:17,307 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:55:17,307 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:55:17,308 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:55:17,308 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:55:17,309 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:55:17,309 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:55:17,311 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:55:17,311 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:55:17,326 main.py:55  INFO Users csv file doesn't look like an accounts file
+2022-03-22 17:55:17,326 main.py:55  INFO Users csv file doesn't look like an accounts file
+2022-03-22 17:55:17,328 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:55:17,328 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:55:17,330 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:55:17,330 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:55:17,331 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:55:17,331 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:55:17,332 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:55:17,332 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:55:17,351 users.py:55  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_users.csv has duplicate data
+2022-03-22 17:55:17,351 users.py:55  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_users.csv has duplicate data
+2022-03-22 17:55:17,367 main.py:64  INFO No file matching entered value, no UsersTable has been created.
+2022-03-22 17:55:17,367 main.py:64  INFO No file matching entered value, no UsersTable has been created.
+2022-03-22 17:55:17,397 users.py:92  INFO search_user DoesNotExist, User Penny100 not found
+2022-03-22 17:55:17,397 users.py:92  INFO search_user DoesNotExist, User Penny100 not found
+2022-03-22 17:55:17,431 users.py:69  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:55:17,431 users.py:69  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:55:17,444 users.py:65  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:55:17,444 users.py:65  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:55:17,459 users.py:92  INFO search_user DoesNotExist, User Billy100 not found
+2022-03-22 17:55:17,459 users.py:92  INFO search_user DoesNotExist, User Billy100 not found
+2022-03-22 17:55:17,511 logging_setup_function.py:37  ERROR Exception: UNIQUE constraint failed: UserStatusTable.STATUS_ID in <function UserStatusCollection.add_status at 0x7fc321bb8670>
+2022-03-22 17:55:17,511 logging_setup_function.py:37  ERROR Exception: UNIQUE constraint failed: UserStatusTable.STATUS_ID in <function UserStatusCollection.add_status at 0x7fc321bb8670>
+2022-03-22 17:55:17,536 users.py:92  INFO search_user DoesNotExist, User NotThere not found
+2022-03-22 17:55:17,536 users.py:92  INFO search_user DoesNotExist, User NotThere not found
+2022-03-22 17:55:17,536 main.py:164 INFO add status failed, NotThere user not found.
+2022-03-22 17:55:17,536 main.py:164 INFO add status failed, NotThere user not found.
+2022-03-22 17:55:17,556 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:55:17,556 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:55:17,576 user_status.py:74  INFO search_status DoesNotExist, User Tay_00001 not found
+2022-03-22 17:55:17,576 user_status.py:74  INFO search_status DoesNotExist, User Tay_00001 not found
+2022-03-22 17:55:17,600 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:55:17,600 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:55:17,621 main.py:93  INFO Status csv file has blank data
+2022-03-22 17:55:17,621 main.py:93  INFO Status csv file has blank data
+2022-03-22 17:55:17,622 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:55:17,622 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:55:17,623 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:55:17,623 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:55:17,624 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:55:17,624 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:55:17,625 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:55:17,625 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:55:17,646 main.py:87  INFO Status csv file doesn't look like an accounts file
+2022-03-22 17:55:17,646 main.py:87  INFO Status csv file doesn't look like an accounts file
+2022-03-22 17:55:17,648 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:55:17,648 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:55:17,649 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:55:17,649 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:55:17,650 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:55:17,650 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:55:17,650 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:55:17,650 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:55:17,670 user_status.py:35  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_status.csv has duplicate data
+2022-03-22 17:55:17,670 user_status.py:35  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_status.csv has duplicate data
+2022-03-22 17:55:17,693 main.py:96  INFO No file matching entered value, no StatusTable has been created.
+2022-03-22 17:55:17,693 main.py:96  INFO No file matching entered value, no StatusTable has been created.
+2022-03-22 17:55:17,781 user_status.py:74  INFO search_status DoesNotExist, User dave03_00004 not found
+2022-03-22 17:55:17,781 user_status.py:74  INFO search_status DoesNotExist, User dave03_00004 not found
+2022-03-22 17:55:17,824 user_status.py:74  INFO search_status DoesNotExist, User NotThere_00001 not found
+2022-03-22 17:55:17,824 user_status.py:74  INFO search_status DoesNotExist, User NotThere_00001 not found
+2022-03-22 17:58:03,758 users.py:92  INFO search_user DoesNotExist, User notthere not found
+2022-03-22 17:58:03,758 users.py:92  INFO search_user DoesNotExist, User notthere not found
+2022-03-22 17:58:03,759 main.py:221 INFO add picture failed, notthere user not found.
+2022-03-22 17:58:03,759 main.py:221 INFO add picture failed, notthere user not found.
+2022-03-22 17:58:03,859 user_picture.py:47  INFO search_user_picture DoesNotExist, User notthere not found
+2022-03-22 17:58:03,859 user_picture.py:47  INFO search_user_picture DoesNotExist, User notthere not found
+2022-03-22 17:58:03,904 users.py:45  INFO User cbarker12 not added, duplicate user found
+2022-03-22 17:58:03,904 users.py:45  INFO User cbarker12 not added, duplicate user found
+2022-03-22 17:58:03,920 users.py:29  INFO User id AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:58:03,920 users.py:29  INFO User id AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:58:03,934 users.py:37  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:58:03,934 users.py:37  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:58:03,951 users.py:33  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:58:03,951 users.py:33  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:58:03,967 main.py:137 INFO No statues deleted for bwinkle678.
+2022-03-22 17:58:03,967 main.py:137 INFO No statues deleted for bwinkle678.
+2022-03-22 17:58:03,970 users.py:92  INFO search_user DoesNotExist, User bwinkle678 not found
+2022-03-22 17:58:03,970 users.py:92  INFO search_user DoesNotExist, User bwinkle678 not found
+2022-03-22 17:58:03,996 main.py:137 INFO No statues deleted for Tay.
+2022-03-22 17:58:03,996 main.py:137 INFO No statues deleted for Tay.
+2022-03-22 17:58:03,998 users.py:92  INFO search_user DoesNotExist, User Tay not found
+2022-03-22 17:58:03,998 users.py:92  INFO search_user DoesNotExist, User Tay not found
+2022-03-22 17:58:04,041 main.py:61  INFO Users csv file has blank data
+2022-03-22 17:58:04,041 main.py:61  INFO Users csv file has blank data
+2022-03-22 17:58:04,042 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:58:04,042 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:58:04,043 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:58:04,043 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:58:04,044 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:58:04,044 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:58:04,045 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:58:04,045 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:58:04,064 main.py:55  INFO Users csv file doesn't look like an accounts file
+2022-03-22 17:58:04,064 main.py:55  INFO Users csv file doesn't look like an accounts file
+2022-03-22 17:58:04,065 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:58:04,065 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:58:04,067 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:58:04,067 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:58:04,068 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:58:04,068 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:58:04,069 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:58:04,069 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:58:04,086 users.py:55  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_users.csv has duplicate data
+2022-03-22 17:58:04,086 users.py:55  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_users.csv has duplicate data
+2022-03-22 17:58:04,101 main.py:64  INFO No file matching entered value, no UsersTable has been created.
+2022-03-22 17:58:04,101 main.py:64  INFO No file matching entered value, no UsersTable has been created.
+2022-03-22 17:58:04,135 users.py:92  INFO search_user DoesNotExist, User Penny100 not found
+2022-03-22 17:58:04,135 users.py:92  INFO search_user DoesNotExist, User Penny100 not found
+2022-03-22 17:58:04,164 users.py:69  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:58:04,164 users.py:69  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:58:04,179 users.py:65  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:58:04,179 users.py:65  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:58:04,195 users.py:92  INFO search_user DoesNotExist, User Billy100 not found
+2022-03-22 17:58:04,195 users.py:92  INFO search_user DoesNotExist, User Billy100 not found
+2022-03-22 17:58:04,247 logging_setup_function.py:37  ERROR Exception: UNIQUE constraint failed: UserStatusTable.STATUS_ID in <function UserStatusCollection.add_status at 0x7fef425d78b0>
+2022-03-22 17:58:04,247 logging_setup_function.py:37  ERROR Exception: UNIQUE constraint failed: UserStatusTable.STATUS_ID in <function UserStatusCollection.add_status at 0x7fef425d78b0>
+2022-03-22 17:58:04,269 users.py:92  INFO search_user DoesNotExist, User NotThere not found
+2022-03-22 17:58:04,269 users.py:92  INFO search_user DoesNotExist, User NotThere not found
+2022-03-22 17:58:04,269 main.py:164 INFO add status failed, NotThere user not found.
+2022-03-22 17:58:04,269 main.py:164 INFO add status failed, NotThere user not found.
+2022-03-22 17:58:04,290 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:58:04,290 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:58:04,311 user_status.py:74  INFO search_status DoesNotExist, User Tay_00001 not found
+2022-03-22 17:58:04,311 user_status.py:74  INFO search_status DoesNotExist, User Tay_00001 not found
+2022-03-22 17:58:04,330 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:58:04,330 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:58:04,351 main.py:93  INFO Status csv file has blank data
+2022-03-22 17:58:04,351 main.py:93  INFO Status csv file has blank data
+2022-03-22 17:58:04,352 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:58:04,352 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:58:04,353 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:58:04,353 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:58:04,354 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:58:04,354 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:58:04,355 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:58:04,355 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:58:04,376 main.py:87  INFO Status csv file doesn't look like an accounts file
+2022-03-22 17:58:04,376 main.py:87  INFO Status csv file doesn't look like an accounts file
+2022-03-22 17:58:04,377 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:58:04,377 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:58:04,378 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:58:04,378 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:58:04,379 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:58:04,379 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:58:04,380 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:58:04,380 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:58:04,400 user_status.py:35  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_status.csv has duplicate data
+2022-03-22 17:58:04,400 user_status.py:35  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_status.csv has duplicate data
+2022-03-22 17:58:04,418 main.py:96  INFO No file matching entered value, no StatusTable has been created.
+2022-03-22 17:58:04,418 main.py:96  INFO No file matching entered value, no StatusTable has been created.
+2022-03-22 17:58:04,487 user_status.py:74  INFO search_status DoesNotExist, User dave03_00004 not found
+2022-03-22 17:58:04,487 user_status.py:74  INFO search_status DoesNotExist, User dave03_00004 not found
+2022-03-22 17:58:04,530 user_status.py:74  INFO search_status DoesNotExist, User NotThere_00001 not found
+2022-03-22 17:58:04,530 user_status.py:74  INFO search_status DoesNotExist, User NotThere_00001 not found
+2022-03-22 17:59:44,440 users.py:92  INFO search_user DoesNotExist, User notthere not found
+2022-03-22 17:59:44,440 users.py:92  INFO search_user DoesNotExist, User notthere not found
+2022-03-22 17:59:44,441 main.py:221 INFO add picture failed, notthere user not found.
+2022-03-22 17:59:44,441 main.py:221 INFO add picture failed, notthere user not found.
+2022-03-22 17:59:44,557 user_picture.py:47  INFO search_user_picture DoesNotExist, User notthere not found
+2022-03-22 17:59:44,557 user_picture.py:47  INFO search_user_picture DoesNotExist, User notthere not found
+2022-03-22 17:59:44,620 users.py:45  INFO User cbarker12 not added, duplicate user found
+2022-03-22 17:59:44,620 users.py:45  INFO User cbarker12 not added, duplicate user found
+2022-03-22 17:59:44,638 users.py:29  INFO User id AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:59:44,638 users.py:29  INFO User id AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:59:44,653 users.py:37  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:59:44,653 users.py:37  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:59:44,670 users.py:33  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:59:44,670 users.py:33  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:59:44,690 main.py:137 INFO No statues deleted for bwinkle678.
+2022-03-22 17:59:44,690 main.py:137 INFO No statues deleted for bwinkle678.
+2022-03-22 17:59:44,693 users.py:92  INFO search_user DoesNotExist, User bwinkle678 not found
+2022-03-22 17:59:44,693 users.py:92  INFO search_user DoesNotExist, User bwinkle678 not found
+2022-03-22 17:59:44,714 main.py:137 INFO No statues deleted for Tay.
+2022-03-22 17:59:44,714 main.py:137 INFO No statues deleted for Tay.
+2022-03-22 17:59:44,717 users.py:92  INFO search_user DoesNotExist, User Tay not found
+2022-03-22 17:59:44,717 users.py:92  INFO search_user DoesNotExist, User Tay not found
+2022-03-22 17:59:44,760 main.py:61  INFO Users csv file has blank data
+2022-03-22 17:59:44,760 main.py:61  INFO Users csv file has blank data
+2022-03-22 17:59:44,761 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:59:44,761 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:59:44,762 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:59:44,762 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:59:44,764 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:59:44,764 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:59:44,765 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:59:44,765 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:59:44,783 main.py:55  INFO Users csv file doesn't look like an accounts file
+2022-03-22 17:59:44,783 main.py:55  INFO Users csv file doesn't look like an accounts file
+2022-03-22 17:59:44,784 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:59:44,784 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 17:59:44,785 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:59:44,785 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 17:59:44,786 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:59:44,786 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 17:59:44,787 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:59:44,787 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 17:59:44,805 users.py:55  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_users.csv has duplicate data
+2022-03-22 17:59:44,805 users.py:55  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_users.csv has duplicate data
+2022-03-22 17:59:44,821 main.py:64  INFO No file matching entered value, no UsersTable has been created.
+2022-03-22 17:59:44,821 main.py:64  INFO No file matching entered value, no UsersTable has been created.
+2022-03-22 17:59:44,853 users.py:92  INFO search_user DoesNotExist, User Penny100 not found
+2022-03-22 17:59:44,853 users.py:92  INFO search_user DoesNotExist, User Penny100 not found
+2022-03-22 17:59:44,905 users.py:69  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:59:44,905 users.py:69  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 17:59:44,926 users.py:65  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:59:44,926 users.py:65  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 17:59:44,949 users.py:92  INFO search_user DoesNotExist, User Billy100 not found
+2022-03-22 17:59:44,949 users.py:92  INFO search_user DoesNotExist, User Billy100 not found
+2022-03-22 17:59:45,001 logging_setup_function.py:37  ERROR Exception: UNIQUE constraint failed: UserStatusTable.STATUS_ID in <function UserStatusCollection.add_status at 0x7f9c9eddf790>
+2022-03-22 17:59:45,001 logging_setup_function.py:37  ERROR Exception: UNIQUE constraint failed: UserStatusTable.STATUS_ID in <function UserStatusCollection.add_status at 0x7f9c9eddf790>
+2022-03-22 17:59:45,027 users.py:92  INFO search_user DoesNotExist, User NotThere not found
+2022-03-22 17:59:45,027 users.py:92  INFO search_user DoesNotExist, User NotThere not found
+2022-03-22 17:59:45,027 main.py:164 INFO add status failed, NotThere user not found.
+2022-03-22 17:59:45,027 main.py:164 INFO add status failed, NotThere user not found.
+2022-03-22 17:59:45,059 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:59:45,059 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:59:45,088 user_status.py:74  INFO search_status DoesNotExist, User Tay_00001 not found
+2022-03-22 17:59:45,088 user_status.py:74  INFO search_status DoesNotExist, User Tay_00001 not found
+2022-03-22 17:59:45,111 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:59:45,111 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 17:59:45,134 main.py:93  INFO Status csv file has blank data
+2022-03-22 17:59:45,134 main.py:93  INFO Status csv file has blank data
+2022-03-22 17:59:45,135 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:59:45,135 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:59:45,136 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:59:45,136 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:59:45,137 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:59:45,137 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:59:45,138 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:59:45,138 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:59:45,168 main.py:87  INFO Status csv file doesn't look like an accounts file
+2022-03-22 17:59:45,168 main.py:87  INFO Status csv file doesn't look like an accounts file
+2022-03-22 17:59:45,171 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:59:45,171 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 17:59:45,175 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:59:45,175 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 17:59:45,177 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:59:45,177 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 17:59:45,179 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:59:45,179 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 17:59:45,211 user_status.py:35  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_status.csv has duplicate data
+2022-03-22 17:59:45,211 user_status.py:35  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_status.csv has duplicate data
+2022-03-22 17:59:45,237 main.py:96  INFO No file matching entered value, no StatusTable has been created.
+2022-03-22 17:59:45,237 main.py:96  INFO No file matching entered value, no StatusTable has been created.
+2022-03-22 17:59:45,312 user_status.py:74  INFO search_status DoesNotExist, User dave03_00004 not found
+2022-03-22 17:59:45,312 user_status.py:74  INFO search_status DoesNotExist, User dave03_00004 not found
+2022-03-22 17:59:45,360 user_status.py:74  INFO search_status DoesNotExist, User NotThere_00001 not found
+2022-03-22 17:59:45,360 user_status.py:74  INFO search_status DoesNotExist, User NotThere_00001 not found
+2022-03-22 18:02:03,333 users.py:92  INFO search_user DoesNotExist, User notthere not found
+2022-03-22 18:02:03,333 users.py:92  INFO search_user DoesNotExist, User notthere not found
+2022-03-22 18:02:03,334 main.py:221 INFO add picture failed, notthere user not found.
+2022-03-22 18:02:03,334 main.py:221 INFO add picture failed, notthere user not found.
+2022-03-22 18:02:03,438 user_picture.py:47  INFO search_user_picture DoesNotExist, User notthere not found
+2022-03-22 18:02:03,438 user_picture.py:47  INFO search_user_picture DoesNotExist, User notthere not found
+2022-03-22 18:02:03,486 users.py:45  INFO User cbarker12 not added, duplicate user found
+2022-03-22 18:02:03,486 users.py:45  INFO User cbarker12 not added, duplicate user found
+2022-03-22 18:02:03,501 users.py:29  INFO User id AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:02:03,501 users.py:29  INFO User id AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:02:03,517 users.py:37  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 18:02:03,517 users.py:37  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 18:02:03,534 users.py:33  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:02:03,534 users.py:33  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:02:03,547 main.py:137 INFO No statues deleted for bwinkle678.
+2022-03-22 18:02:03,547 main.py:137 INFO No statues deleted for bwinkle678.
+2022-03-22 18:02:03,548 users.py:92  INFO search_user DoesNotExist, User bwinkle678 not found
+2022-03-22 18:02:03,548 users.py:92  INFO search_user DoesNotExist, User bwinkle678 not found
+2022-03-22 18:02:03,562 main.py:137 INFO No statues deleted for Tay.
+2022-03-22 18:02:03,562 main.py:137 INFO No statues deleted for Tay.
+2022-03-22 18:02:03,563 users.py:92  INFO search_user DoesNotExist, User Tay not found
+2022-03-22 18:02:03,563 users.py:92  INFO search_user DoesNotExist, User Tay not found
+2022-03-22 18:02:03,602 main.py:61  INFO Users csv file has blank data
+2022-03-22 18:02:03,602 main.py:61  INFO Users csv file has blank data
+2022-03-22 18:02:03,604 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 18:02:03,604 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 18:02:03,617 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 18:02:03,617 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 18:02:03,619 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 18:02:03,619 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 18:02:03,621 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 18:02:03,621 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 18:02:03,699 main.py:55  INFO Users csv file doesn't look like an accounts file
+2022-03-22 18:02:03,699 main.py:55  INFO Users csv file doesn't look like an accounts file
+2022-03-22 18:02:03,701 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 18:02:03,701 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 18:02:03,703 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 18:02:03,703 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 18:02:03,711 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 18:02:03,711 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 18:02:03,712 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 18:02:03,712 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 18:02:03,740 users.py:55  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_users.csv has duplicate data
+2022-03-22 18:02:03,740 users.py:55  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_users.csv has duplicate data
+2022-03-22 18:02:03,784 main.py:64  INFO No file matching entered value, no UsersTable has been created.
+2022-03-22 18:02:03,784 main.py:64  INFO No file matching entered value, no UsersTable has been created.
+2022-03-22 18:02:03,870 users.py:92  INFO search_user DoesNotExist, User Penny100 not found
+2022-03-22 18:02:03,870 users.py:92  INFO search_user DoesNotExist, User Penny100 not found
+2022-03-22 18:02:04,012 users.py:69  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 18:02:04,012 users.py:69  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 18:02:04,030 users.py:65  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:02:04,030 users.py:65  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:02:04,062 users.py:92  INFO search_user DoesNotExist, User Billy100 not found
+2022-03-22 18:02:04,062 users.py:92  INFO search_user DoesNotExist, User Billy100 not found
+2022-03-22 18:02:04,140 logging_setup_function.py:37  ERROR Exception: UNIQUE constraint failed: UserStatusTable.STATUS_ID in <function UserStatusCollection.add_status at 0x7fccd25d39d0>
+2022-03-22 18:02:04,140 logging_setup_function.py:37  ERROR Exception: UNIQUE constraint failed: UserStatusTable.STATUS_ID in <function UserStatusCollection.add_status at 0x7fccd25d39d0>
+2022-03-22 18:02:04,163 users.py:92  INFO search_user DoesNotExist, User NotThere not found
+2022-03-22 18:02:04,163 users.py:92  INFO search_user DoesNotExist, User NotThere not found
+2022-03-22 18:02:04,163 main.py:164 INFO add status failed, NotThere user not found.
+2022-03-22 18:02:04,163 main.py:164 INFO add status failed, NotThere user not found.
+2022-03-22 18:02:04,185 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 18:02:04,185 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 18:02:04,212 user_status.py:74  INFO search_status DoesNotExist, User Tay_00001 not found
+2022-03-22 18:02:04,212 user_status.py:74  INFO search_status DoesNotExist, User Tay_00001 not found
+2022-03-22 18:02:04,234 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 18:02:04,234 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 18:02:04,257 main.py:93  INFO Status csv file has blank data
+2022-03-22 18:02:04,257 main.py:93  INFO Status csv file has blank data
+2022-03-22 18:02:04,258 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 18:02:04,258 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 18:02:04,260 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 18:02:04,260 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 18:02:04,261 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 18:02:04,261 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 18:02:04,262 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 18:02:04,262 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 18:02:04,290 main.py:87  INFO Status csv file doesn't look like an accounts file
+2022-03-22 18:02:04,290 main.py:87  INFO Status csv file doesn't look like an accounts file
+2022-03-22 18:02:04,292 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 18:02:04,292 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 18:02:04,294 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 18:02:04,294 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 18:02:04,295 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 18:02:04,295 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 18:02:04,296 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 18:02:04,296 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 18:02:04,321 user_status.py:35  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_status.csv has duplicate data
+2022-03-22 18:02:04,321 user_status.py:35  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_status.csv has duplicate data
+2022-03-22 18:02:04,341 main.py:96  INFO No file matching entered value, no StatusTable has been created.
+2022-03-22 18:02:04,341 main.py:96  INFO No file matching entered value, no StatusTable has been created.
+2022-03-22 18:02:04,418 user_status.py:74  INFO search_status DoesNotExist, User dave03_00004 not found
+2022-03-22 18:02:04,418 user_status.py:74  INFO search_status DoesNotExist, User dave03_00004 not found
+2022-03-22 18:02:04,467 user_status.py:74  INFO search_status DoesNotExist, User NotThere_00001 not found
+2022-03-22 18:02:04,467 user_status.py:74  INFO search_status DoesNotExist, User NotThere_00001 not found
+2022-03-22 18:03:36,907 users.py:92  INFO search_user DoesNotExist, User notthere not found
+2022-03-22 18:03:36,907 users.py:92  INFO search_user DoesNotExist, User notthere not found
+2022-03-22 18:03:36,908 main.py:221 INFO add picture failed, notthere user not found.
+2022-03-22 18:03:36,908 main.py:221 INFO add picture failed, notthere user not found.
+2022-03-22 18:03:37,014 user_picture.py:47  INFO search_user_picture DoesNotExist, User notthere not found
+2022-03-22 18:03:37,014 user_picture.py:47  INFO search_user_picture DoesNotExist, User notthere not found
+2022-03-22 18:03:37,063 users.py:45  INFO User cbarker12 not added, duplicate user found
+2022-03-22 18:03:37,063 users.py:45  INFO User cbarker12 not added, duplicate user found
+2022-03-22 18:03:37,080 users.py:29  INFO User id AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:03:37,080 users.py:29  INFO User id AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:03:37,097 users.py:37  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 18:03:37,097 users.py:37  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 18:03:37,111 users.py:33  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:03:37,111 users.py:33  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:03:37,126 main.py:137 INFO No statues deleted for bwinkle678.
+2022-03-22 18:03:37,126 main.py:137 INFO No statues deleted for bwinkle678.
+2022-03-22 18:03:37,127 users.py:92  INFO search_user DoesNotExist, User bwinkle678 not found
+2022-03-22 18:03:37,127 users.py:92  INFO search_user DoesNotExist, User bwinkle678 not found
+2022-03-22 18:03:37,140 main.py:137 INFO No statues deleted for Tay.
+2022-03-22 18:03:37,140 main.py:137 INFO No statues deleted for Tay.
+2022-03-22 18:03:37,142 users.py:92  INFO search_user DoesNotExist, User Tay not found
+2022-03-22 18:03:37,142 users.py:92  INFO search_user DoesNotExist, User Tay not found
+2022-03-22 18:03:37,173 main.py:61  INFO Users csv file has blank data
+2022-03-22 18:03:37,173 main.py:61  INFO Users csv file has blank data
+2022-03-22 18:03:37,175 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 18:03:37,175 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 18:03:37,176 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 18:03:37,176 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 18:03:37,177 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 18:03:37,177 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 18:03:37,178 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 18:03:37,178 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 18:03:37,193 main.py:55  INFO Users csv file doesn't look like an accounts file
+2022-03-22 18:03:37,193 main.py:55  INFO Users csv file doesn't look like an accounts file
+2022-03-22 18:03:37,195 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 18:03:37,195 users.py:92  INFO search_user DoesNotExist, User Brittaney.Gentry86 not found
+2022-03-22 18:03:37,197 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 18:03:37,197 users.py:92  INFO search_user DoesNotExist, User Keri.Royce8 not found
+2022-03-22 18:03:37,200 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 18:03:37,200 users.py:92  INFO search_user DoesNotExist, User Michal.Hollyanne32 not found
+2022-03-22 18:03:37,202 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 18:03:37,202 users.py:92  INFO search_user DoesNotExist, User Carolina.Mateusz51 not found
+2022-03-22 18:03:37,226 users.py:55  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_users.csv has duplicate data
+2022-03-22 18:03:37,226 users.py:55  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_users.csv has duplicate data
+2022-03-22 18:03:37,244 main.py:64  INFO No file matching entered value, no UsersTable has been created.
+2022-03-22 18:03:37,244 main.py:64  INFO No file matching entered value, no UsersTable has been created.
+2022-03-22 18:03:37,278 users.py:92  INFO search_user DoesNotExist, User Penny100 not found
+2022-03-22 18:03:37,278 users.py:92  INFO search_user DoesNotExist, User Penny100 not found
+2022-03-22 18:03:37,311 users.py:69  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 18:03:37,311 users.py:69  INFO User last name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 100 characters
+2022-03-22 18:03:37,327 users.py:65  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:03:37,327 users.py:65  INFO User name AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA is more than 30 characters
+2022-03-22 18:03:37,344 users.py:92  INFO search_user DoesNotExist, User Billy100 not found
+2022-03-22 18:03:37,344 users.py:92  INFO search_user DoesNotExist, User Billy100 not found
+2022-03-22 18:03:37,391 logging_setup_function.py:37  ERROR Exception: UNIQUE constraint failed: UserStatusTable.STATUS_ID in <function UserStatusCollection.add_status at 0x7fc2f8bc39d0>
+2022-03-22 18:03:37,391 logging_setup_function.py:37  ERROR Exception: UNIQUE constraint failed: UserStatusTable.STATUS_ID in <function UserStatusCollection.add_status at 0x7fc2f8bc39d0>
+2022-03-22 18:03:37,412 users.py:92  INFO search_user DoesNotExist, User NotThere not found
+2022-03-22 18:03:37,412 users.py:92  INFO search_user DoesNotExist, User NotThere not found
+2022-03-22 18:03:37,412 main.py:164 INFO add status failed, NotThere user not found.
+2022-03-22 18:03:37,412 main.py:164 INFO add status failed, NotThere user not found.
+2022-03-22 18:03:37,432 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 18:03:37,432 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 18:03:37,455 user_status.py:74  INFO search_status DoesNotExist, User Tay_00001 not found
+2022-03-22 18:03:37,455 user_status.py:74  INFO search_status DoesNotExist, User Tay_00001 not found
+2022-03-22 18:03:37,477 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 18:03:37,477 user_status.py:74  INFO search_status DoesNotExist, User bwinkle678_00003 not found
+2022-03-22 18:03:37,498 main.py:93  INFO Status csv file has blank data
+2022-03-22 18:03:37,498 main.py:93  INFO Status csv file has blank data
+2022-03-22 18:03:37,499 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 18:03:37,499 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 18:03:37,500 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 18:03:37,500 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 18:03:37,501 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 18:03:37,501 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 18:03:37,502 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 18:03:37,502 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 18:03:37,523 main.py:87  INFO Status csv file doesn't look like an accounts file
+2022-03-22 18:03:37,523 main.py:87  INFO Status csv file doesn't look like an accounts file
+2022-03-22 18:03:37,524 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 18:03:37,524 user_status.py:74  INFO search_status DoesNotExist, User Channa.Formica62_01 not found
+2022-03-22 18:03:37,525 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 18:03:37,525 user_status.py:74  INFO search_status DoesNotExist, User Joanna.Publius21_01 not found
+2022-03-22 18:03:37,528 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 18:03:37,528 user_status.py:74  INFO search_status DoesNotExist, User Tonia.Saberio34_01 not found
+2022-03-22 18:03:37,529 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 18:03:37,529 user_status.py:74  INFO search_status DoesNotExist, User Lottie,Eustatius_01 not found
+2022-03-22 18:03:37,553 user_status.py:35  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_status.csv has duplicate data
+2022-03-22 18:03:37,553 user_status.py:35  INFO File /Users/mac/Downloads/Python/Python 320A/python-320-assignment-09-taypham88/duplicate_status.csv has duplicate data
+2022-03-22 18:03:37,573 main.py:96  INFO No file matching entered value, no StatusTable has been created.
+2022-03-22 18:03:37,573 main.py:96  INFO No file matching entered value, no StatusTable has been created.
+2022-03-22 18:03:37,654 user_status.py:74  INFO search_status DoesNotExist, User dave03_00004 not found
+2022-03-22 18:03:37,654 user_status.py:74  INFO search_status DoesNotExist, User dave03_00004 not found
+2022-03-22 18:03:37,697 user_status.py:74  INFO search_status DoesNotExist, User NotThere_00001 not found
+2022-03-22 18:03:37,697 user_status.py:74  INFO search_status DoesNotExist, User NotThere_00001 not found
