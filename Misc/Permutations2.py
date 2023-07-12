@@ -10,13 +10,16 @@ def permute(nums):
 
     for i in range(len(nums)):
         n = nums.pop(0)
-        perms = permute(nums)
         print('nums', nums, 'n', n)
+        perms = permute(nums)
+
+        print('res',res, 'perms', perms)
 
         for perm in perms:
             perm.append(n)
-        res.extend(perms)
+        
         print('res',res, 'perms', perms)
+        res.extend(perms)
         nums.append(n)
     return res
 
