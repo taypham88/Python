@@ -8,7 +8,9 @@ def lovesMe(n):
         return ''
     if n == 1:
         return "LOVES ME"
-    store = {0: "Loves me,", 1: "Loves me not,", 2: "LOVES ME", 3:"LOVES ME NOT"}
+
+    store = {0: "Loves me, ", 1: "Loves me not, ", 2: "LOVES ME", 3:"LOVES ME NOT"}
+
     ans = ''
     for i in range(n-1):
         if i % 2 == 0:
