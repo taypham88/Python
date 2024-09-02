@@ -4,7 +4,7 @@
 alternating petal, and return the last phrase in all caps. Remember to put a comma and space between phrases.'''
 
 def lovesMe(n):
-    if n == 0:
+    if n <= 0:
         return ''
     if n == 1:
         return "LOVES ME"
