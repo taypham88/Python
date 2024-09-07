@@ -1,5 +1,0 @@
-ID,Name,Description,Dangerous,Weight,Volume,Big,Urgent,International,Route,Cost
-1000,Tay Pham,first package,False,5,100,True,True,False,Air,2000
-1001,Jame Stevens,testing supplies,False,4,50,True,False,False,Truck,25
-1002,Jim Smith,False,False,5,50,True,True,False,Air,1000
-1003,James James,False,False,9,5,True,False,True,Ocean,30

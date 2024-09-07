@@ -1,9 +1,0 @@
-﻿questionid,sequencenumber,question,deletedflag,booleanquestion
-100,1,What is your name?,FALSE,FALSE
-110,2,What is your conference ID?,FALSE,FALSE
-120,3,Which organization do you represent?,FALSE,FALSE
-130,4,What is your email address?,FALSE,FALSE
-140,5,State any food preferences?,FALSE,FALSE
-150,6,Would you like to take Python for beginners?,FALSE,TRUE
-160,7,Would you like to take Database development with Python?,FALSE,TRUE
-170,8,Would you like to take Advanced Python for application developers?,FALSE,TRUE

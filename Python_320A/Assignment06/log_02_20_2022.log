@@ -1,6 +1,0 @@
-2022-02-20 16:09:02,969 menu.py:50  INFO Assignment 05 add user total time: 88.5999 Milliseconds.
-2022-02-20 16:09:06,170 menu.py:96  INFO Assignment 05 delete user total time: 2.7304 Milliseconds.
-2022-02-20 16:09:30,719 menu.py:50  INFO Assignment 05 add user total time: 1.1110 Milliseconds.
-2022-02-20 16:09:42,544 menu.py:111 INFO Assignment 05 add status total time: 82.6340 Milliseconds.
-2022-02-20 16:10:03,655 user_status.py:76  INFO delete_all for new was called.
-2022-02-20 16:10:03,656 menu.py:96  INFO Assignment 05 delete user total time: 3.7911 Milliseconds.

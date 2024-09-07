@@ -1,6 +1,0 @@
-2022-03-05 10:49:33,832 menu.py:19  INFO load user csv total time: 2863.4989 Milliseconds.
-2022-03-05 10:51:01,919 menu.py:29  INFO load status csv total time: 87135.5259 Milliseconds.
-2022-03-05 10:53:28,219 menu.py:19  INFO load user csv total time: 2613.5101 Milliseconds.
-2022-03-05 10:54:51,958 menu.py:29  INFO load status csv total time: 82162.3490 Milliseconds.
-2022-03-05 10:55:49,816 menu.py:19  INFO load user csv total time: 2988.1830 Milliseconds.
-2022-03-05 10:57:12,993 menu.py:29  INFO load status csv total time: 81397.5489 Milliseconds.
