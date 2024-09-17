@@ -26,14 +26,13 @@ def get_data(stocks, start, end):
     return meanReturns, covMatrix
 
 stockList = ['DFEN', 'EURL']
-stocks = [stock for stock in stockList]
 
 endDate = dt.datetime.now()
 startDate = endDate - dt.timedelta(days=500)
 
-meanReturns, covMatrix = get_data(stocks, startDate, endDate)
+meanReturns, covMatrix = get_data(stockList, startDate, endDate)
 
-weights = [0.2, 0.8] # Manual weights
+weights = [0.2, 0.7] # Manual weights
 # weights = np.random.random(len(meanReturns)) # Random weights
 weights /= np.sum(weights)
 # print(weights)
