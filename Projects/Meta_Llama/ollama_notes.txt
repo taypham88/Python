@@ -1,0 +1,6 @@
+Documentation:
+https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-completion
+
+Question:
+When running from terminal the model remembers what was asked in sequence. When running the python script, each one is a new ask.
+This is fundamentally differnt and so why is that? It is also a be slower.
