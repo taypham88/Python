@@ -1,6 +1,10 @@
 Documentation:
 https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-completion
 
-Question:
+Conversation History:
 When running from terminal the model remembers what was asked in sequence. When running the python script, each one is a new ask.
-This is fundamentally differnt and so why is that? It is also a be slower.
+This is fundamentally differnt because the sameple script they have dont have a conversation history. To give context, the message
+would need the roll of assistant and user to append the prompt and responses. ollama_converstaiton.py has this. It acts like the terminal.
+
+Thoughts on Stream:
+This allows for the model to send seperate responses.
