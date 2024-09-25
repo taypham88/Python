@@ -5,6 +5,7 @@ url = "http://localhost:11434/api/chat"
 
 
 def connect_to_ollama_model(messages):
+    '''builds requests to url host'''
     data = {
         "model": "llama3",
         "messages": messages,  # Send all messages in the conversation
@@ -24,6 +25,8 @@ def connect_to_ollama_model(messages):
         return None
 
 def main():
+    '''executes user interface'''
+
     print("Welcome to the Ollama Model Interface!")
     print("Type 'exit' to quit the program.")
 

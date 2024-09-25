@@ -1,10 +1,46 @@
 Documentation:
 https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-completion
 
-Conversation History:
-When running from terminal the model remembers what was asked in sequence. When running the python script, each one is a new ask.
-This is fundamentally differnt because the sameple script they have dont have a conversation history. To give context, the message
-would need the roll of assistant and user to append the prompt and responses. ollama_converstaiton.py has this. It acts like the terminal.
+Conversation History
+Terminal vs. Python Script:
+Terminal: When running the model from the terminal, it retains the sequence of previous interactions, effectively remembering the conversation history.
+Python Script: Each interaction is treated as a new request without any memory of previous exchanges.
+Reason for the Difference: The sample scripts provided lack functionality for maintaining conversation history.
+Solution: To incorporate context in the Python script:
+Messages should include the roles of assistant and user.
+Prompts and responses need to be appended accordingly.
+The script ollama_conversation.py details this approach, making the script behave similarly to the terminal version.
 
-Thoughts on Stream:
-This allows for the model to send seperate responses.
+Thoughts on Streaming
+Functionality: Streaming allows the model to send responses in separate, incremental pieces.
+Implementation Experience:
+Initially implemented but later removed due to impracticality.
+The immediate stream of incoming data, when reassembled, did not add value to the application.
+Performance Considerations:
+While streaming might offer performance improvements if utilized correctly, it was cumbersome in this particular interface.
+
+Retrieval Augmented Generation (RAG)
+Concept: By integrating a private database, the model's knowledge base becomes more refined and relevant through additional context.
+Challenges:
+Complex Data: Real-world data extends beyond plain text, making knowledge extraction challenging.
+Structured Data Limitations: Structured data, such as databases, do not always enhance the model's performance as expected.
+1. Better data parser 
+Notes: PyPDF is not very accurate for data parsing. Recommand LlamaParse. --> Llama cloud. 
+FrieCrawl --> website into clean markdown and Json response metadata. 
+2. chunk size
+LLMs have limited context window and may encounter "lost in the middle problems" which means it pays more attention to the begining and end but lose info in the middle. 
+Too small of chunks also inhibits context. Would need expirmentation to find the proper chunk size. This would differ from type of document. 
+3. Rerank
+Have a way to find the most relevent chunks of data to use. 
+4. Hyrid Search 
+Vector and Keyword search combined with a reranker. 
+5. Agentic RAG
+Query Translation/Planning. Modify the question into one thats easier to answer and then use that as extra contrext on the larger question. 
+This would be like breaking down the question into smaller questions to merge into larger questions later. 
+This can also be applied to meta data to tag the question and lets it look into relevent documenation. 
+
+
+Simplified Version:
+using FireCrawl on ollama RAG. ollama_RAG.py attemps to do a simple parsing of urls from a website then grades them. 
+Code is broken into parts: Doc Reterival, Doc grading, Generation, Web search (via TavilyAI is a websearch model for LLM which takes in simple text and searches the web)
+diagram here: https://imgur.com/qWYvTDs
