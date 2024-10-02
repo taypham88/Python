@@ -1,0 +1,9 @@
+History: The barcode is just an extention of morsecode.
+There are pairs of lines that split the barcode up. Manufacture info on the left. Product info on the right.
+The last final digit is a checksum if one of the number of the barcode has been damaged.
+
+However the limit of data in a barcode forced a different solution. Taking inspiration from a go board, you can store information in 2d.
+it turns a website url into ASCCII characters in binary.
+
+3-4 squares are used to alighned and orient the QR code. Then the data is filled in via zigzag patern. Only half the space is filled in while the rest
+is done for redundancy. 1/3 of the code can be missing for it to stil work. This is done with error correcting binary that is found on lots of other media.

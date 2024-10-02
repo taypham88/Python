@@ -15,7 +15,7 @@ def minutesToSeconds(inputstr):
         imins = int(mins)
         isecs = int(seconds)
     except ValueError:
-        print(f"Invalid Number {inputstr}")
+        print(f"Invalid Input {inputstr}")
         return -1
 
     if isecs >= 60:
@@ -25,7 +25,7 @@ def minutesToSeconds(inputstr):
 
 
 if __name__=='__main__':
-    print(minutesToSeconds("01:00"))
+    assert minutesToSeconds("01:00") == 60
     print(minutesToSeconds("13:56"))
     print(minutesToSeconds("10:60"))
     print(minutesToSeconds("121:49"))
