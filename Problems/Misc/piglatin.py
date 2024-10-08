@@ -15,10 +15,18 @@ output = "allway eetstray ournaljay"
 '''
 
 def piglatin(string):
-    if not string or not string.strip():
-        return ''
-    vowels = {'a', 'e', 'i', 'o', 'u'}
+    '''
+    Assumptions:
+    # uppercase letters will remain the same case when reordered.
+    # y added as a special rule in pig latin for letters other than the first.
+    # numbers and orther characters treated as words.`
+    '''
     ans = ''
+    if not string or not string.strip():
+        return ans
+
+    vowels = {'a', 'e', 'i', 'o', 'u'}
+
     for word in string.split(' '):
         if word[0].lower() in vowels:
             ans += word + 'way '
@@ -26,20 +34,20 @@ def piglatin(string):
 
         has_vowel = False
         for i,v in enumerate(word):
-            # y added as a special rule in pig latin for letters inside
             if v.lower() in vowels or v.lower() == 'y':
                 ans += word[i:] + word[:i] + 'ay '
                 has_vowel = True
                 break
+
         if not has_vowel:
             ans += word + 'ay '
+
     return ans.strip()
 
 if __name__ == '__main__':
-    print(piglatin("this is pig latin"))
-    print(piglatin("wall street journal"))
+    print(piglatin("This is pig latin"))
+    print(piglatin("Wall street journal"))
     print(piglatin("Hmmm there is a fly in my shh"))
     print(piglatin(" "))
     print(piglatin(""))
-    # numbers and orther characters treated as words.
     print(piglatin('1 223, 44'))
