@@ -7,6 +7,7 @@ countTrue([false, false, false, false]) ➞ 0
 countTrue([]) ➞ 0'''
 
 def howTrue(arr: bool):
+    
     if all(isinstance(item, bool) for item in arr):
         return sum(arr)
 
