@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Tic Tac Toe</title>
+</head>
+<body>
+    <h1>Current Player: {{ current_player }}</h1>
+    <table>
+        {% for i in range(board|length) %}
+        <tr>
+            {% for j in range(board[i]|length) %}
+            <td>
+                <form action="/move" method="post" style="display:inline;">
+                    <input type="hidden" name="row" value="{{ i }}">
+                    <input type="hidden" name="col" value="{{ j }}">
+                    <button type="submit" style="width: 50px; height: 50px;">{{ board[i][j] }}</button>
+                </form>
+            </td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
