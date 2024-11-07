@@ -9,8 +9,8 @@ def ctrlCV(arr):
     copied = []
     arr = arr.replace('Ctrl + C', '#ACTIONCOPY#')
     arr = arr.replace('Ctrl + V', '#ACTIONPASTE#')
-    # keys = arr.split(' ')
-    for _,text in enumerate(arr):
+    keys = arr.split(' ')
+    for _,text in enumerate(keys):
 
         if text == '#ACTIONPASTE#':
             ans += copied
@@ -21,7 +21,7 @@ def ctrlCV(arr):
         else:
             ans.append(text)
 
-    return ''.join(ans)
+    return ' '.join(ans)
 
 
 if __name__=='__main__':
