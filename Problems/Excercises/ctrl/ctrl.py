@@ -20,10 +20,10 @@ def ctrlCV(arr):
                 copied = ans
         else:
             ans.append(v)
-    return ans
+    return ' '.join(ans)
 
 
 if __name__=='__main__':
-    print(ctrlCV('the egg and Ctrl + C Ctrl + V the spoon') == ['the', 'egg', 'and', 'the', 'egg', 'and', 'the', 'spoon'])
+    print(ctrlCV('the egg and Ctrl + C Ctrl + V the spoon'))
     print(ctrlCV('WARNING Ctrl + V Ctrl + C Ctrl + V'))
     print(ctrlCV('The Ctrl + C Ctrl + V Town Ctrl + C Ctrl + V'))
