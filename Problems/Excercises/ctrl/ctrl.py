@@ -3,24 +3,25 @@
  "Ctrl + V" will do nothing if there is no "Ctrl + C" before it.
 A "Ctrl + C" which follows another "Ctrl + C" will overwrite what it copies.'''
 
-# Assumption is that all Ctrl strings are only Ctrl + C or Ctrl + V.
-# For example Ctrl + X would not be possible.
+# Assumption no input Text can be #ACTIONCOPY# or #ACTIONPASTE#
 def ctrlCV(arr):
     ans = []
     copied = []
-    keys = arr.split(' ')
-    for i,v in enumerate(keys):
-        if v in ('+', 'V', 'C'):
-            continue
-        if v == 'Ctrl':
-            if copied and keys[i+2] == 'V':
-                ans += copied
-                copied = []
-            elif keys[i+2] == 'C':
-                copied = ans
+    arr = arr.replace('Ctrl + C', '#ACTIONCOPY#')
+    arr = arr.replace('Ctrl + V', '#ACTIONPASTE#')
+    # keys = arr.split(' ')
+    for _,text in enumerate(arr):
+
+        if text == '#ACTIONPASTE#':
+            ans += copied
+            copied = []
+
+        elif text == '#ACTIONCOPY#':
+            copied = ans
         else:
-            ans.append(v)
-    return ' '.join(ans)
+            ans.append(text)
+
+    return ''.join(ans)
 
 
 if __name__=='__main__':

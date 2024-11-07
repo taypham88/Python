@@ -1,5 +1,5 @@
 import pytest
-from ctrl import ctrlCV  # Replace `your_module` with the actual module name if needed
+from ctrl import ctrlCV \
 
 class TestCtrlCV:
 
@@ -38,3 +38,7 @@ class TestCtrlCV:
     def test_repeated_copy_overwrites(self):
         # Test repeated copy overwrites previous copy
         assert ctrlCV('alpha beta Ctrl + C gamma Ctrl + C Ctrl + V') == 'alpha beta gamma alpha beta gamma'
+
+    def test_differnt_ctrl_commands(self):
+        # Test repeated copy overwrites previous copy
+        assert ctrlCV('alpha beta Ctrl + x gamma Ctrl + C Ctrl + V Ctrl + Y') == 'alpha beta Ctrl + x gamma alpha beta Ctrl + x gamma Ctrl + Y'
