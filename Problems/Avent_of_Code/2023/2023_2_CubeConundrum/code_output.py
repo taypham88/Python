@@ -7,6 +7,7 @@ import os
 current_directory = os.getcwd()
 file_name = 'input_file.txt'
 file_path = os.path.join(current_directory, file_name)
+print(file_path)
 compareHash = {'red': 12, 'blue' : 14, 'green': 13}
 part1, part2 = 0, 0
 
